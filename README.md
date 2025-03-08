@@ -22,19 +22,23 @@ The testing procedure will cover:
 3. Record the results (Pass/Fail) and take screenshots if needed.  
 
 ## 🔹 Bug Reporting  
-- Report issues using the project's bug .  
+- Report issues using the project's bug.  
 - Include details such as:  
   - **Bug ID**  
   - **Description**  
   - **Steps to Reproduce**  
   - **Expected vs. Actual Result**  
-  - **Severity (Critical, Major, Minor)**  
- - **Priority ( High, Medium, Low)** 
-  - **Screenshot **  
+  - **Severity (Blocker, Critical, Major, Minor)**  
+  - **Priority ( High, Medium, Low)** 
+  -**Screenshot** 
 
 ## 🔹 Conclusion  
 Manual testing ensures the software quality by identifying issues before release. Follow the outlined process to execute test cases efficiently.  
 
+## 🔹 Test Report Summary Screenshot: 
+![Image](https://github.com/user-attachments/assets/0dfb5573-1153-428f-936e-fb961f93166d)
+
+![Image](https://github.com/user-attachments/assets/eec9b264-41b8-4d97-ab8c-b46cfbd2fc6e)
 ---
 📌 **Contributor**: Rupa Dey  
 📅 **Last Updated**: 8th march, 2025
