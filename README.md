@@ -1,8 +1,8 @@
-# Manual Testing project for MedEasy.health web application.
+# Manual Testing project for MedEasy.health application.
 
 ## 📌 Introduction :
-MedEasy.health is an online drug selling website which helps us to get our necessary product like medicine, child's care, skin care , pathological product. Especially This platform can provide us prescribed medicines etc.
-This document provides a structured approach to test the platform which works effectively or not. For testing purpose, here is designed the test plan, test scenarios, test cases, reproducing steps, mind map and bug reporting procedures.  
+MedEasy.health is an online drug selling website which helps us to get our necessary product like medicine, child's care, skin care , pathological product. Especially This platform can provide us with prescribed medicines etc. Even it has web or mobile application.
+This document provides a structured approach to test the platform which works effectively or not. For testing purpose, here is designed the test plan, test scenarios, test cases, reproducing steps, mind map, and bug reporting procedures.  
 
 ## 🔹 Test Environment :  
 - **OS**: Windows 10 / Linux  
