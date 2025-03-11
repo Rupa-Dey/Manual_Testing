@@ -35,10 +35,13 @@ The testing procedure will cover:
 ## 🔹 Conclusion  
 Manual testing ensures the software quality by identifying issues before release. Follow the outlined process to execute test cases efficiently.  
 
+## 🔹 MindMap Image to better understanding.
+![Image](https://github.com/user-attachments/assets/2081e4fb-7bdf-4ce7-83ee-40c8e09cc3a2)
+
 ## 🔹 Test Report Summary Screenshot: 
 ![Image](https://github.com/user-attachments/assets/0dfb5573-1153-428f-936e-fb961f93166d)
 
 ![Image](https://github.com/user-attachments/assets/eec9b264-41b8-4d97-ab8c-b46cfbd2fc6e)
 ---
 📌 **Contributor**: Rupa Dey  
-📅 **Last Updated**: 8th march, 2025
+📅 **Last Updated**: 11th march, 2025
